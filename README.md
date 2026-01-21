@@ -1,54 +1,65 @@
-# Halo, Saya Alif Kumara Rasendriya 👋
-### Siswa Teknik Komputer & Jaringan (TKJ)
+# Hi there, I'm Alif Kumara Rasendriya! 👋
 
-Saya adalah seorang pelajar di **SMK Media Informatika** yang memiliki minat mendalam di dunia IT, khususnya dalam infrastruktur jaringan, administrasi sistem, dan keamanan siber. Saya memiliki pengalaman dalam merancang jaringan, menganalisis traffic, serta melakukan troubleshooting hardware dan software.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rasennn&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+</p>
 
----
+I am a passionate **IT Student** specializing in **Computer and Network Engineering (TKJ)**. I have a deep interest in building network infrastructure, managing servers, and solving complex hardware puzzles.
 
-### 🚀 Mengenai Saya
-- 🎓 Sedang menempuh pendidikan di bidang **Teknik Komputer Jaringan**.
-- 🛠️ Fokus pada **Networking, Server Administration, dan Troubleshooting**.
-- 💻 Senang bereksperimen dengan virtualisasi seperti **Proxmox** dan **VMware**.
-- 🌐 Lihat portofolio lengkap saya di: [web.rasennn.my.id](https://web.rasennn.my.id/)
-
----
-
-### 🛠️ Keahlian & Peralatan
-
-| Kategori | Teknologi / Tools |
-| :--- | :--- |
-| **Networking** | Cisco (Routing & Switching), MikroTik (RouterOS), TCP/IP, VLAN, Subnetting |
-| **Virtualization** | Proxmox VE, VMware ESXi, VirtualBox, VMware Workstation |
-| **System Admin** | Linux (Ubuntu, Debian, Kali), Windows Server, User & Permission Management |
-| **Hardware** | Perakitan PC, Troubleshooting Hardware, LAN Tester, Multimeter |
-| **Tools & Others** | Winbox, PuTTY, Cisco Packet Tracer, Arduino IDE, Blynk, WinSCP, Wireshark |
+- 🔭 I’m currently focusing on **Advanced Networking & Server Management**.
+- 🌐 Visit my portfolio: [web.rasennn.my.id](https://web.rasennn.my.id/)
+- ⚡ Fun fact: I love exploring how data travels across the globe in milliseconds!
 
 ---
 
-### 📂 Proyek Pilihan
+### 🛠️ Tech Stack & Tools
 
-- **📍 Perancangan Laboratorium Komputer**
-  Merancang infrastruktur lab komputer untuk kebutuhan praktik perakitan, konfigurasi LAN, dan instalasi sistem operasi.
-- **🌐 Konfigurasi & Instalasi Perangkat Jaringan**
-  Implementasi perangkat MikroTik, Router, dan Switch untuk membangun koneksi antar perangkat yang stabil dan efisien.
-- **🖥️ Perangkaian & Konfigurasi Server**
-  Membangun dan mengelola layanan jaringan berbasis Linux untuk memahami alur kerja server di lingkungan IT.
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-005A70?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/MikroTik-EE1C25?style=for-the-badge&logo=mikrotik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  
+  <br/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  
+  <br/>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
 
 ---
 
-### 📊 Statistik GitHub
-![Statistik GitHub Alif](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+### 📊 GitHub Stats
 
-*(Catatan: Ganti `YOUR_GITHUB_USERNAME` dengan username GitHub kamu yang asli)*
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 📫 Hubungi Saya
-- **Instagram:** [@rasennn16](https://instagram.com/rasennn16)
-- **Website:** [web.rasennn.my.id](https://web.rasennn.my.id/)
+### 📂 Featured Projects
+
+| Project Name | Description | Tools Used |
+| :--- | :--- | :--- |
+| **Lab Infrastructure** | Designing and implementing school lab networks. | Cisco, LAN, Subnetting |
+| **Server Virtualization** | Deploying multiple OS instances using Proxmox. | Proxmox, Debian, Win Server |
+| **IoT Smart Home** | Creating basic automation using Arduino and Blynk. | Arduino, C++, Sensors |
+
+---
+
+### 📫 Let's Connect!
+
+<p align="left">
+<a href="https://instagram.com/rasennn16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rasennn16" height="30" width="40" /></a>
+<a href="https://web.rasennn.my.id/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/globe--v1.png" alt="Portfolio" height="30" width="30" /></a>
+</p>
 
 ---
 <p align="center">
-  <i>"Success is not final, failure is not fatal: it is the courage to continue that counts."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
