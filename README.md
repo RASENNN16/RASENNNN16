@@ -1,23 +1,54 @@
-<h1 align="center">Hi 👋, I'm Ahmad Raditya</h1>
-<h3 align="center"></h3>
+# Halo, Saya Alif Kumara Rasendriya 👋
+### Siswa Teknik Komputer & Jaringan (TKJ)
 
-## 💫 About Me:
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif">
-💥 I’m currently working on Software Engineering<br>👯 I’m looking to collaborate on Nusanode Cloud Hosting<br>🤝 I’m looking for help with SMK Media Informatika<br>🌱 I’m currently learning Network Engineer
-
-## <br>🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hyperynzex) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.raditsp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-raditya-322395350/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:radityasp1811@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=radit1811&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=radit1811&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=radit1811&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Saya adalah seorang pelajar di **SMK Media Informatika** yang memiliki minat mendalam di dunia IT, khususnya dalam infrastruktur jaringan, administrasi sistem, dan keamanan siber. Saya memiliki pengalaman dalam merancang jaringan, menganalisis traffic, serta melakukan troubleshooting hardware dan software.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=radit1811&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Mengenai Saya
+- 🎓 Sedang menempuh pendidikan di bidang **Teknik Komputer Jaringan**.
+- 🛠️ Fokus pada **Networking, Server Administration, dan Troubleshooting**.
+- 💻 Senang bereksperimen dengan virtualisasi seperti **Proxmox** dan **VMware**.
+- 🌐 Lihat portofolio lengkap saya di: [web.rasennn.my.id](https://web.rasennn.my.id/)
+
+---
+
+### 🛠️ Keahlian & Peralatan
+
+| Kategori | Teknologi / Tools |
+| :--- | :--- |
+| **Networking** | Cisco (Routing & Switching), MikroTik (RouterOS), TCP/IP, VLAN, Subnetting |
+| **Virtualization** | Proxmox VE, VMware ESXi, VirtualBox, VMware Workstation |
+| **System Admin** | Linux (Ubuntu, Debian, Kali), Windows Server, User & Permission Management |
+| **Hardware** | Perakitan PC, Troubleshooting Hardware, LAN Tester, Multimeter |
+| **Tools & Others** | Winbox, PuTTY, Cisco Packet Tracer, Arduino IDE, Blynk, WinSCP, Wireshark |
+
+---
+
+### 📂 Proyek Pilihan
+
+- **📍 Perancangan Laboratorium Komputer**
+  Merancang infrastruktur lab komputer untuk kebutuhan praktik perakitan, konfigurasi LAN, dan instalasi sistem operasi.
+- **🌐 Konfigurasi & Instalasi Perangkat Jaringan**
+  Implementasi perangkat MikroTik, Router, dan Switch untuk membangun koneksi antar perangkat yang stabil dan efisien.
+- **🖥️ Perangkaian & Konfigurasi Server**
+  Membangun dan mengelola layanan jaringan berbasis Linux untuk memahami alur kerja server di lingkungan IT.
+
+---
+
+### 📊 Statistik GitHub
+![Statistik GitHub Alif](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+*(Catatan: Ganti `YOUR_GITHUB_USERNAME` dengan username GitHub kamu yang asli)*
+
+---
+
+### 📫 Hubungi Saya
+- **Instagram:** [@rasennn16](https://instagram.com/rasennn16)
+- **Website:** [web.rasennn.my.id](https://web.rasennn.my.id/)
+
+---
+<p align="center">
+  <i>"Success is not final, failure is not fatal: it is the courage to continue that counts."</i>
+</p>
