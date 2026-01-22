@@ -1,4 +1,4 @@
-# Hi there, I'm Alif Kumara Rasendriya! 👋
+# Hi there, 👋
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rasennn&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
