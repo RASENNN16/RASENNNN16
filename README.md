@@ -7,7 +7,7 @@
 I am a passionate **IT Student** specializing in **Computer and Network Engineering (TKJ)**. I have a deep interest in building network infrastructure, managing servers, and solving complex hardware puzzles.
 
 - 🔭 I’m currently focusing on **Advanced Networking & Server Management**.
-- 🌐 Visit my portfolio: [web.rasennn.my.id](https://web.rasennn.my.id/)
+
 - ⚡ Fun fact: I love exploring how data travels across the globe in milliseconds!
 
 ---
