@@ -7,7 +7,6 @@
 I am a passionate **IT Student** specializing in **Computer and Network Engineering (TKJ)**. I have a deep interest in building network infrastructure, managing servers, and solving complex hardware puzzles.
 
 - 🔭 I’m currently focusing on **Advanced Networking & Server Management**.
-
 - ⚡ Fun fact: I love exploring how data travels across the globe in milliseconds!
 
 ---
@@ -33,6 +32,23 @@ I am a passionate **IT Student** specializing in **Computer and Network Engineer
 
 ---
 
+### 📸 Latest Work & Documentation
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="LINK_FOTO_1_KAMU_DISINI" width="100%" style="border-radius:10px;" />
+      <br />
+      <b>Network Configuration Lab</b>
+    </td>
+    <td width="50%" align="center">
+      <img src="LINK_FOTO_2_KAMU_DISINI" width="100%" style="border-radius:10px;" />
+      <br />
+      <b>Server Infrastructure / IoT Setup</b>
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 📂 Featured Projects
 
