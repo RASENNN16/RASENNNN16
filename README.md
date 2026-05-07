@@ -36,12 +36,12 @@ I am a passionate **IT Student** specializing in **Computer and Network Engineer
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="LINK_FOTO_1_KAMU_DISINI" width="100%" style="border-radius:10px;" />
+      <img src="https://github.com/RASENNN16/RASENNNN16/blob/main/foto%20lab.jpg?raw=true" width="100%" style="border-radius:10px;" />
       <br />
       <b>Network Configuration Lab</b>
     </td>
     <td width="50%" align="center">
-      <img src="LINK_FOTO_2_KAMU_DISINI" width="100%" style="border-radius:10px;" />
+      <img src="https://github.com/RASENNN16/RASENNNN16/blob/main/server.jpg?raw=true" width="100%" style="border-radius:10px;" />
       <br />
       <b>Server Infrastructure / IoT Setup</b>
     </td>
