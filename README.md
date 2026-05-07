@@ -48,7 +48,6 @@ I am a passionate **IT Student** specializing in **Computer and Network Engineer
 
 <p align="left">
 <a href="https://instagram.com/rasennn16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rasennn16" height="30" width="40" /></a>
-<a href="https://web.rasennn.my.id/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/globe--v1.png" alt="Portfolio" height="30" width="30" /></a>
 </p>
 
 ---
