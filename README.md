@@ -38,12 +38,14 @@ I am a passionate **IT Student** specializing in **Computer and Network Engineer
     <td width="50%" align="center">
       <img src="https://github.com/RASENNN16/RASENNNN16/blob/main/foto%20lab.jpg?raw=true" width="100%" style="border-radius:10px;" />
       <br />
-      <b>Network Configuration Lab</b>
+      <b>Infrastructure Deployment</b>
+      <p>Designing and building a new network lab from scratch, including cabling and rack management.</p>
     </td>
     <td width="50%" align="center">
       <img src="https://github.com/RASENNN16/RASENNNN16/blob/main/server.jpg?raw=true" width="100%" style="border-radius:10px;" />
       <br />
-      <b>Server Infrastructure / IoT Setup</b>
+      <b>Server Maintenance & Optimization</b>
+      <p>Performing routine updates, hardware checks, and troubleshooting on production servers.</p>
     </td>
   </tr>
 </table>
